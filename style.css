@@ -1,5 +1,5 @@
 #home {
-    background: url('./img/Designer.png') no-repeat center center;
+    background: url('/img/Designer.png') no-repeat center center;
     background-size: cover;
     height: 95vh;
     color: white;
